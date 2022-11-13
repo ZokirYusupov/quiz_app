@@ -111,7 +111,7 @@ let questions = [
     {
     numb: 10,
     question: "Qaysi transport vositalari yo'nalishli transport vositalari hisoblanadi",
-    answer: "Belgilangan yo'nalishi va bekatlari bo'lgan, yo'lovchi tashishuchun mo'ljallangan umum foydalanishdagi transport vositalalari",
+    answer: "Belgilangan yo'nalishi va bekatlari bo'lgan, yo'lovchi tashish uchun mo'ljallangan umum foydalanishdagi transport vositalalari",
     question_img: '../images/avtoexam.jpg',
     options: [
       "Yo'lovchilarni tashuvchi istalgan transport vositalari",

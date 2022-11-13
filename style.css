@@ -385,7 +385,7 @@ footer button.show{
 
 @media screen and (max-width: 600px) {
     body {
-      background-color: olive;
+      background-color: red;
     }
     .start_btn button {
         font-size: 15px;
@@ -395,5 +395,19 @@ footer button.show{
         outline: none;
         border: none;
         border-radius: 3px;
+    }
+    .info_box{
+        width: 340px;
+    }
+    .info_box .info-title{
+        height: 30px;
+        width: 100%;
+        border-bottom: 1px solid lightgrey;
+        display: flex;
+        align-items: center;
+        padding: 0 10px;
+        border-radius: 5px 5px 0 0;
+        font-size: 14px;
+        font-weight: 600;
     }
   }

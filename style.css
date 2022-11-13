@@ -387,4 +387,13 @@ footer button.show{
     body {
       background-color: olive;
     }
+    .start_btn button {
+        font-size: 15px;
+        font-weight: 300;
+        color: #007bff;
+        padding: 5px 10px;
+        outline: none;
+        border: none;
+        border-radius: 3px;
+    }
   }

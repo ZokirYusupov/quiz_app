@@ -392,9 +392,9 @@ footer button.show{
 }
 
 @media screen and (max-width: 600px) {
-    body {
+    /* body {
       background-color: red;
-    }
+    } */
     .info_box{
         width: 340px;
     }

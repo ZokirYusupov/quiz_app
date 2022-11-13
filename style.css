@@ -387,15 +387,6 @@ footer button.show{
     body {
       background-color: red;
     }
-    .start_btn button {
-        font-size: 15px;
-        font-weight: 300;
-        color: #007bff;
-        padding: 5px 10px;
-        outline: none;
-        border: none;
-        border-radius: 3px;
-    }
     .info_box{
         width: 340px;
     }

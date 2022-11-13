@@ -83,6 +83,7 @@ body{
 .info_box .info-list .info span{
     font-weight: 600;
     color: #007bff;
+
 }
 .info_box .buttons{
     height: 60px;
@@ -182,8 +183,9 @@ section{
 }
 
 section .que_text{
-    font-size: 17px;
+    font-size: 16px;
     font-weight: 600;
+    text-align: justify;
 }
 
 section .option_list{
@@ -197,6 +199,7 @@ section .option_list .option{
     border-radius: 5px;
     padding: 8px 15px;
     font-size: 15px;
+    text-align: justify;
     margin-bottom: 15px;
     cursor: pointer;
     transition: all 0.3s ease;

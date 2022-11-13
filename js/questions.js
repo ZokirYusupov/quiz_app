@@ -3,7 +3,7 @@ let questions = [
     {
     numb: 1,
     question: "Yengil avtomobilning tormoz yo‘li tormoz tizimiga ega bo‘lmagan tirkama bilan harakatlanayotganda qanday o‘zgaradi?",
-    question_img: '../images/first.png',
+    question_img: '../images/avtoexam.jpg',
     answer: "Ortadi",
     options: [
       "Kamayadi, chunki tirkama harakatlanishga qo‘shimcha qarshilik ko‘rsatadi",

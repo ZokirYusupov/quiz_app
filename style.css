@@ -72,6 +72,7 @@ body{
 }
 
 .info_box .info-list{
+    text-align: justify;
     padding: 15px 30px;
 }
 

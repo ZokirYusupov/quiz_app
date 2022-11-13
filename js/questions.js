@@ -14,46 +14,62 @@ let questions = [
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "Qaysi belgi tartibga solinmagan piyodalar o‘tish joyiga yaqinlashayotganlik haqida ogohlantiradi?",
+    question_img: '../images/first.png',
+    answer: "A",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "A va B",
+      "A",
+      "B",
+      "Hammasi"
     ]
   },
     {
     numb: 3,
-    question: "What does PHP stand for?",
-    answer: "Hypertext Preprocessor",
+    question: "Old chiroqlar va orqa gabarit chiroqlari ishlamayotgan transport vositasi harakatini davom ettirishi taqiqlanadi?",
+    answer: "Barcha javoblarda ko'rsatilgan holatlarda",
+    question_img: '../images/avtoexam.jpg',
     options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
+      "Faqat yetarli ko'rinmaslikda",
+      "Faqat kunning qorong'i vaqtida",
+      "Barcha javoblarda ko'rsatilgan holatlarda",
+      "Kunning qorong' vaqtida"
     ]
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "Qatnov qismi yo'l chiziqlari bilan ajratilgan bo'lsa haydovchilar qanday holatlarda qat'iy bo'laklar bo'yicha harakatlanishlari kerak?",
+    answer: "Barcha holatlarda",
+    question_img: '../images/avtoexam.jpg',
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "Faqat harakatlanish bo'laklari uzliksiz sidirg'a chiziqlarbilanajratilgan bo'lsa",
+      "Faqat harakatlanish serqatnov bo'lganda",
+      "Barcha holatlarda",
+      "To'g'ri javob yo'q"
     ]
   },
     {
     numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "Chorrahdan birinchi bo'lib kesib o'tadi?",
+    answer: "Yashil avtomobil",
+    question_img: '../images/2.png',
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "Ko'k avtomobil",
+      "Yashil avtomobil",
+      "Qizil avtomobil",
+      "Hammasi bir vaqtda"
+    ]
+  },
+    {
+    numb: 6,
+    question: "Chorrahadan ikkinchi bo'lib qaysi transport vositasi kesib o'tadi?",
+    answer: "Yashil avtomobil tramvay bilan bir vaqtda",
+    question_img: '../images/2.png',
+    options: [
+      "Yashil avtomobil",
+      "Yashil avtomobil tramvay bilan bir vaqtda",
+      "Qizil avtomobil",
+      "Qizil avtomobil Sariq bilan"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
